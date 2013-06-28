@@ -1,8 +1,7 @@
 This project is designed to provide a place for exercises which craftsman can solve to sharpen their skills.
 
-
-
 Types of exercises
+
 - design style: like the bowling game
 - maths
 - algorithms
@@ -18,13 +17,15 @@ Types of exercises
 - little languages
 - loops
 - caching
-- optimisation
--- reduce memory footprint
--- reduce cpu usage
--- trading space versus memory and vice versa
+- optimization
+- reduce memory footprint
+- reduce cpu usage
+- trading space versus memory and vice versa
 - switching data structures
 - kinds of duplication
 - removing patterns
 - off by one errors
 - ranges
 - bugs
+- versioning of the software
+- recursion
